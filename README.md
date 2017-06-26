@@ -1,6 +1,6 @@
 # Sosyal Medya Üzerinde İnsan Arama
 <h4>Nedir?</h4>
-Aradığınız kişiyi sadece ad ve soyad bilgisi girerek sosyal medya apileri ile o kişiye ait sosyal medya hesaplarını tek bir site üzerinden bulmayı sağlar. Bunun için sosyal medya API servislerini kullanarak o isimdeki kişileri bulur ve daha sonra bu kişilerin resimlerini karşılaştırarak benzerlik skoru çıkarır. Eğer benzerlik varsa şuan için facebook ve twitter hesaplarını sisteme kaydeder.
+Aradığınız kişiyi sadece ad ve soyad bilgisi girerek sosyal medya api'leri ile o kişiye ait sosyal medya hesaplarını tek bir site üzerinden bulmayı sağlar. Bunun için sosyal medya API servislerini kullanarak o isimdeki kişileri bulur ve daha sonra bu kişilerin resimlerini karşılaştırarak benzerlik skoru çıkarır. Eğer benzerlik varsa şuan için facebook ve twitter hesaplarını sisteme kaydeder.
 
 <h4>Çalışma mantığı?</h4>
 <ul>
