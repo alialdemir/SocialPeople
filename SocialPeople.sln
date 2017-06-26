@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialPeople", "SocialPeople\SocialPeople.csproj", "{7E9D4EAF-C382-48D9-8FBB-55864AFA4C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialPeople.Tests", "SocialPeople.Tests\SocialPeople.Tests.csproj", "{11170F18-7C5C-4940-BF02-6B01A29005A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9D4EAF-C382-48D9-8FBB-55864AFA4C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9D4EAF-C382-48D9-8FBB-55864AFA4C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9D4EAF-C382-48D9-8FBB-55864AFA4C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9D4EAF-C382-48D9-8FBB-55864AFA4C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11170F18-7C5C-4940-BF02-6B01A29005A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11170F18-7C5C-4940-BF02-6B01A29005A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11170F18-7C5C-4940-BF02-6B01A29005A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11170F18-7C5C-4940-BF02-6B01A29005A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
