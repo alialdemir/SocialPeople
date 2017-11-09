@@ -22,11 +22,3 @@ Aradığınız kişiyi sadece ad ve soyad bilgisi girerek sosyal medya api'leri 
 
 <h4>Olası Durumlar</h4>
 <p>Aranan kullanıcı sosyal medya hesapların ayarlarında 'dışındaki arama motorlarının, profiline bağlantı vermesine izin ver' özelliğini kapatırmış ise API o kullanıcıyı göstermediği için eşleşme olmayacaktır. Diğer bir durum ise Face API tarafından profil resimleri tanımlamama durumunda eşleşme olmama olasığı vardır. Özellikle ünlülerde fake hesapları orjinal hesapla eşleştiriyor böyle bir durumda var.</p>
-
-<h4>Yapılacaklar</h4>
-<ul>
-<li>Instagram arama desteği</li>
-<li>LinkedIn arama desteği</li>
-<li>Foursquare arama desteği</li>
-<li>Diğer sosyal medya arama apileri</li>
-</ul>
